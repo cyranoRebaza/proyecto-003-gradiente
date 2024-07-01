@@ -161,3 +161,39 @@ a {
 }
 
 /* testimonial */
+#testimonial {
+  background: #3e3a52;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#testimonial p {
+  text-align: center;
+  padding: 10px 120px;
+}
+
+.testimonial-detail {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.testimonial-detail-img {
+  float: left;
+  width: 50%;
+}
+
+.testimonial-detail-img img {
+  width: 80px;
+  border-radius: 50%;
+  padding: 1px;
+  float: right;
+}
+
+.testimonial-detail-name {
+  float: right;
+  width: 50%;
+}
+
+.testimonial-detail-name p {
+  padding: 12px !important;
+  float: left;
+}
