@@ -120,3 +120,20 @@ a {
 #showcase a {
   width: 180px;
 }
+
+/* clientes */
+#cliente {
+  background-image: linear-gradient(to right, #1b33f0, #d0004a);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.cliente-box {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.cliente-box img {
+  width: 70px;
+}
